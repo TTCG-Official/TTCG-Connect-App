@@ -16,7 +16,7 @@
 {
 	"id": 3,
 	"title": "Russian drones in Belgian airspace!",
-	"body": "BREAKING NEWS: Recent reports indicate that several unidentified drones of Russian origin were detected entering Belgian airspace. According to official sources, the aircraft were monitored by Belgian defense systems and escorted away without any incidents.Authorities emphasized that there is no current threat to public safety. An investigation is ongoing to determine the drones' exact purpose and flight path. We will continue to monitor updates and share new information as it becomes available.",
+	"body": "BREAKING NEWS: Recent reports indicate that several unidentified drones of Russian origin were detected entering Belgian airspace. According to official sources, the aircraft were monitored by Belgian defense systems and escorted away without any incidents. Authorities emphasized that there is no current threat to public safety. An investigation is ongoing to determine the drones' exact purpose and flight path. We will continue to monitor updates and share new information as it becomes available.",
 	"date": "Published 11/16/2025",
 	"timestamp": 1763281160
 },
@@ -26,5 +26,12 @@
 	"body": "The TTCG Connect App is entering its alpha stage, and exiting the pre-alpha! We are very excited to finally launch the app and provide users with the Swiss Army knife of iOS apps!",
 	"date": "Published 11/16/2025",
 	"timestamp": 1763295740
+},
+{
+	"id": 4,
+	"title": "TTCG Connect officially in Alpha!",
+	"body": "We are pleased to FINALLY announce, that after a 2 week delay to to issues with revamping the login system, TTCG Connect has finally entered the Alpha stage and a public release will soon follow! This has now officially been 4 months in the making. And we are truly sorry you all had to wait so long. The release is expected to follow on the 15th of December 2025.",
+	"date": "Published 11/30/2025",
+	"timestamp": 1764518977
 }
 ]
